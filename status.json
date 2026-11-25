@@ -1,13 +1,13 @@
 {
  "updated": "2026-11-25",
  "everyone": "running",
- "message": "",
+ "message": "This is a test.",
  "modules": {
   "profile-round": "running",
   "target-audience": "running"
  },
  "keys": {
   "330d67f70e52dc63770960bd807d3bb0d1917af9de0459c4705480c79aad7b12": "on",
-  "bd4e96818db4144f2ca381a9efab8e0a79ae743358692348e6b72c505b811c94": "on"
+  "bd4e96818db4144f2ca381a9efab8e0a79ae743358692348e6b72c505b811c94": "off"
  }
 }
